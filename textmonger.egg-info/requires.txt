@@ -3,3 +3,4 @@ pyfiglet
 textstat
 pytest
 tabulate
+textblob

@@ -13,7 +13,7 @@ class PostInstallCommand(install):
 
 setup(
     name="textmonger",
-    version="0.1.2",
+    version="0.2.3",
     author="Sahil Garje",
     author_email="sahilgarje@gmail.com",
     description="A text analysis tool with readability, power word analysis, and NER visualization.",
@@ -26,7 +26,8 @@ setup(
         "pyfiglet",
         "textstat",
         "pytest",
-        "tabulate"
+        "tabulate",
+        "textblob"
     ],
     classifiers=[
         "Programming Language :: Python :: 3",
