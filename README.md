@@ -58,16 +58,16 @@ END
 <Your Output Here>
 
 ================================================================================
-                              Named Entity Recognition (NER)
-================================================================================
-<Your Output Here>
-
-================================================================================
                               Sentiment Analysis
 ================================================================================
 | Polarity       | 0.0 (Neutral)                   |
 | Subjectivity   | 0.5 (Subjective)                |
 ================================================================================
+
+================================================================================
+                              Named Entity Recognition (NER)
+================================================================================
+<Your Output Here>
 ```
 
 ## License
@@ -76,11 +76,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contributing
 
-Contributions are welcome! Please fork the repository and submit a pull request. For major changes, please open an issue to discuss what you would like to change.
+Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## Contact
-
-If you have any questions, feel free to reach out to the project maintainer:
 
 - **Author:** Sahil Garje
 - **Email:** sahilgarje@gmail.com
